@@ -1,5 +1,7 @@
 # Projeto de instalações — Fábrica de Massas
 
+![Planta de instalações da Fábrica de Massas](docs/imagens/planta-instalacoes.png)
+
 Repositório dos arquivos técnicos disponíveis do projeto de instalações da Fábrica de Massas.
 
 ## Estrutura
@@ -25,4 +27,5 @@ O repositório usa Git localmente. Não há publicação ou repositório remoto 
 ## Enunciado da disciplina
 
 Consulte [dados do professor e pontos a esclarecer](docs/ENUNCIADO.md), com o PDF original recebido e uma lista de conferências propostas.
+
 
