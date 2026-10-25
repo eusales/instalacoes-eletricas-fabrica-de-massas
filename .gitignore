@@ -1,0 +1,10 @@
+# Arquivos temporários de editores CAD e Office
+~$*
+*.dwl
+*.dwl2
+*.bak
+*.sv$
+*.ac$
+*.tmp
+Thumbs.db
+.DS_Store
