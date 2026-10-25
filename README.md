@@ -21,3 +21,8 @@ Esta organização foi feita a partir dos nomes e pastas dos arquivos. Não repr
 ## Controle de versão
 
 O repositório usa Git localmente. Não há publicação ou repositório remoto configurado. Consulte `docs/ORGANIZACAO.md` antes de atualizar documentos.
+
+## Enunciado da disciplina
+
+Consulte [dados do professor e pontos a esclarecer](docs/ENUNCIADO.md), com o PDF original recebido e uma lista de conferências propostas.
+
